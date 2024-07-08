@@ -7,3 +7,4 @@ This is a third-party API library written in Go. It provides a set of tools and 
 - godaddy
 - registry
 - rocketchat
+- cloudflare
